@@ -260,3 +260,4 @@ Total: 2.366300 ms (FindLiveObjects: 0.294000 ms CreateObjectMapping: 0.137700 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   colorSpace: 1 -> 0
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
