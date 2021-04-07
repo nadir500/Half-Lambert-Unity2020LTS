@@ -7,6 +7,7 @@
   ![chart_HL](https://github.com/nadir500/Half-Lambert-Unity2020LTS/blob/main/5084_01_09.jpg)
   
   Half Lambert is a completely non-physical technique and gives a purely percieved visual enhancement and is an example of a forgiving lighting model, reaching the result the same as in the following figure:
+  
   ![alyx](https://github.com/nadir500/Half-Lambert-Unity2020LTS/blob/main/Alyx_lambert_half_lambert.jpg)
   
 # Results in Unity: 
